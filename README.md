@@ -1,4 +1,0 @@
-ixigo
-=====
-
-ixigo public repository
